@@ -1,6 +1,6 @@
 # Improving MBA Deobfuscation using Equality Saturation
 
-This is the Python PoC for the blog post: [Improving MBA Deobfuscation using Equality Saturation](https://secret.club/).
+This is the Python PoC for the blog post: [Improving MBA Deobfuscation using Equality Saturation](https://secret.club/2022/08/08/eqsat-oracle-synthesis.html).
 
 1. It is a monolithic slow script that has just been used to experiment with the documented ideas and must be considered unstable;
 2. It will be properly rewritten in a faster language in the upcoming months;
